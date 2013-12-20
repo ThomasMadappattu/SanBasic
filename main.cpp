@@ -14,7 +14,9 @@ notice               :You should note that this programming style is not worth
 #include <cstring>
 #include <cctype>
 #include <map>
-#include <conio.h>
+#include <cstdio>
+#include <cassert>
+
 
 /* the token id's*/
 #define TOKEN_END_OF_INPUT 100
